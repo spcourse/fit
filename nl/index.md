@@ -64,7 +64,7 @@ wedstrijdnummer (x)     |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10
 $$f_{goed}$$ (y)        | 55 | 50 | 39 | 58 | 54 | 57 | 78 | 66 | 62 | 82 
 $$\sigma$$ (fout op y)  |  5 |  4 |  9 |  4 |  5 |  5 |  7 |  3 |  6 | 6
 
-![](FitExampleCombined.png)
+![](../assets/FitExampleCombined.png)
 
 De data is weergegeven in de linker plot hieronder. We nemen aan dat zijn
 prestaties constant zijn en nemen daarom aan dat het model dat deze data het
